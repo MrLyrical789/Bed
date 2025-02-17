@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(0, 0, 0);
+    overflow: hidden;
+    margin: 0px;
+    
+}
+h1{
+    text-transform: capitalize;
+}
+button{
+    width: 120px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    padding: 5px;
+    font-weight: bolder;
+    
+}
+#Emcioguzik{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    
+    
+    
+}
+.bd{
+    background-image: url("https://cdn.discordapp.com/attachments/1089609929079394305/1341109024384618539/8-88115_bed-png-photo-bed-minecraft-png.png?ex=67b4cc9c&is=67b37b1c&hm=3df57440694d38803feb99aa7d01c8806df820c66fadbe26aaacda2f3d7e49c5&");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
