@@ -1,1 +1,1 @@
-https://github.com/MrLyrical789.io/Bed
+https://mrlyrical789.github.io/Bed/lozko.html
