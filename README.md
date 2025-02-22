@@ -1,1 +1,1 @@
-https://github.com/MrLyrical789/Bed
+https://github.com/MrLyrical789.io/Bed
